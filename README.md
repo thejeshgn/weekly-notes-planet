@@ -1,2 +1,21 @@
 # weekly-notes-planet
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Things I Learned: Week of 2025-01-05](https://til.s-anand.net/2025-01-05.html)
+- [Weekly Notes 01/2025](https://thejeshgn.com/2025/01/03/weekly-notes-01-2025/)
+- [Things I Learned: Week of 2024-12-29](https://til.s-anand.net/2024-12-29.html)
+- [Weekly Notes 52/2024](https://thejeshgn.com/2024/12/27/weekly-notes-52-2024/)
+- [Things I Learned: Week of 2024-12-22](https://til.s-anand.net/2024-12-22.html)
+- [Weekly Notes 51/2024](https://thejeshgn.com/2024/12/20/weekly-notes-51-2024/)
+- [Things I Learned: Week of 2024-12-15](https://til.s-anand.net/2024-12-15.html)
+- [Weekly Notes 50/2024](https://thejeshgn.com/2024/12/13/weekly-notes-50-2024/)
+- [Things I Learned: Week of 2024-12-08](https://til.s-anand.net/2024-12-08.html)
+- [Weekly Notes 49/2024](https://thejeshgn.com/2024/12/06/weekly-notes-49-2024/)
+- [Things I Learned: Week of 2024-12-01](https://til.s-anand.net/2024-12-01.html)
+- [Weekly Notes 48/2024](https://thejeshgn.com/2024/11/29/weekly-notes-48-2024/)
+- [Things I Learned: Week of 2024-11-24](https://til.s-anand.net/2024-11-24.html)
+- [Things I Learned: Week of 2024-11-17](https://til.s-anand.net/2024-11-17.html)
+- [Weekly Notes 46/2024](https://thejeshgn.com/2024/11/15/weekly-notes-46-2024/)
+- [Things I Learned: Week of 2024-11-10](https://til.s-anand.net/2024-11-10.html)
+- [Weekly Notes 45/2024](https://thejeshgn.com/2024/11/08/weekly-notes-45-2024/)
+- [Things I Learned: Week of 2024-11-03](https://til.s-anand.net/2024-11-03.html)
+<!-- BLOG-POST-LIST:END -->
