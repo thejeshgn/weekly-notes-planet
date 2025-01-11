@@ -1,5 +1,6 @@
 # weekly-notes-planet
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Notes 02/2025](https://thejeshgn.com/2025/01/10/weekly-notes-02-2025/)
 - [Things I Learned: Week of 2025-01-05](https://til.s-anand.net/2025-01-05.html)
 - [Weekly Notes 01/2025](https://thejeshgn.com/2025/01/03/weekly-notes-01-2025/)
 - [Things I Learned: Week of 2024-12-29](https://til.s-anand.net/2024-12-29.html)
@@ -16,6 +17,5 @@
 - [Things I Learned: Week of 2024-11-17](https://til.s-anand.net/2024-11-17.html)
 - [Weekly Notes 46/2024](https://thejeshgn.com/2024/11/15/weekly-notes-46-2024/)
 - [Things I Learned: Week of 2024-11-10](https://til.s-anand.net/2024-11-10.html)
-- [Weekly Notes 45/2024](https://thejeshgn.com/2024/11/08/weekly-notes-45-2024/)
 - [Things I Learned: Week of 2024-11-03](https://til.s-anand.net/2024-11-03.html)
 <!-- BLOG-POST-LIST:END -->
