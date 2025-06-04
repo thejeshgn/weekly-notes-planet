@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Weekly Notes Planet</title>
+  <link rel="stylesheet" type="text/css" href="https://lib.thejeshgn.com/lib_files/datatable/media/css/jquery.dataTables.min.css">
+  <script src="https://lib.thejeshgn.com/lib_files/datatable/media/js/jquery.js"></script>
+  <script src="https://lib.thejeshgn.com/lib_files/datatable/media/js/jquery.dataTables.min.js"></script>
+</head>
+<body>
+  <table id="weeklynotes_list" class="display" cellspacing="0" width="100%">
+          <thead>
+              <tr>
+                  <th>Weekly Notes</th>
+                  <th>Published By</th>
+                  <th>Published On</th>
+              </tr>
+          </thead>
+          <tbody>
+          	<!-- BLOG-POST-LIST:START -->
+          	<tr>
+          		<td><a href="https://sathyabh.at/weekly-notes-22-2025/">Weekly notes 22/2025</a></td>
+          		<td>Sathya Bhat</td>
+          		<td>2025-06-01</td>
+          	</tr>
+          	<tr>
+          		<td><a href="https://sathyabh.at/weekly-notes-22-2025/">Weekly notes 22/2025</a></td>
+          		<td>Sathya Bhat</td>
+          		<td>2025-06-06</td>
+          	</tr>
+			<!-- BLOG-POST-LIST:END -->
+		 </tbody>
+          <tfoot>
+              <tr>
+                 <th>Notes</th>
+                  <th>By</th>
+                  <th>On</th>
+              </tr>
+          </tfoot>
+      </table>
+</body>
+<script type="text/javascript">
+	$('#weeklynotes_list').DataTable({"order": [[2, 'desc']],  "pageLength": 25});
+</script>
+</html>
