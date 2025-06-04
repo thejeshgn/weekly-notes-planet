@@ -1,42 +1,48 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="stylesheet"
+      href="https://lib.thejeshgn.com/lib_files/papercss/1.8.0/paper.min.css"
+    />
 	<title>Weekly Notes Planet</title>
   <link rel="stylesheet" type="text/css" href="https://lib.thejeshgn.com/lib_files/datatable/media/css/jquery.dataTables.min.css">
   <script src="https://lib.thejeshgn.com/lib_files/datatable/media/js/jquery.js"></script>
   <script src="https://lib.thejeshgn.com/lib_files/datatable/media/js/jquery.dataTables.min.js"></script>
 </head>
 <body>
-  <table id="weeklynotes_list" class="display" cellspacing="0" width="100%">
-          <thead>
-              <tr>
-                  <th>Weekly Notes</th>
-                  <th>Published By</th>
-                  <th>Published On</th>
-              </tr>
-          </thead>
-          <tbody>
-          	<!-- BLOG-POST-LIST:START -->
-          	<tr>
-          		<td><a href="https://sathyabh.at/weekly-notes-22-2025/">Weekly notes 22/2025</a></td>
-          		<td>Sathya Bhat</td>
-          		<td>2025-06-01</td>
-          	</tr>
-          	<tr>
-          		<td><a href="https://sathyabh.at/weekly-notes-22-2025/">Weekly notes 22/2025</a></td>
-          		<td>Sathya Bhat</td>
-          		<td>2025-06-06</td>
-          	</tr>
-			<!-- BLOG-POST-LIST:END -->
-		 </tbody>
-          <tfoot>
-              <tr>
-                 <th>Notes</th>
-                  <th>By</th>
-                  <th>On</th>
-              </tr>
-          </tfoot>
-      </table>
+	<div class="paper">
+	<h2>Weekly Notes Planet</h2>
+		  <table id="weeklynotes_list" class="display" cellspacing="0" width="100%">
+		          <thead>
+		              <tr>
+		                  <th>Weekly Notes</th>
+		                  <th>Published By</th>
+		                  <th>Published On</th>
+		              </tr>
+		          </thead>
+		          <tbody>
+		          	<!-- BLOG-POST-LIST:START -->
+		          	<tr>
+		          		<td><a href="https://sathyabh.at/weekly-notes-22-2025/">Weekly notes 22/2025</a></td>
+		          		<td>Sathya Bhat</td>
+		          		<td>2025-06-01</td>
+		          	</tr>
+		          	<tr>
+		          		<td><a href="https://sathyabh.at/weekly-notes-22-2025/">Weekly notes 22/2025</a></td>
+		          		<td>Sathya Bhat</td>
+		          		<td>2025-06-06</td>
+		          	</tr>
+					<!-- BLOG-POST-LIST:END -->
+				 </tbody>
+		      </table>
+  </div>
+  <div class="paper">
+  	By <a href="https://thejeshgn.com" target="_blank">Thejesh GN</a> part of <a href=" https://thejeshgn.com/projects/blogring/" target="_blank">blogring</a> project. <a href=" https://github.com/thejeshgn/weekly-notes-planet/" target="_blank">Code</a> is on Github.
+  </div>
 </body>
 <script type="text/javascript">
 	$('#weeklynotes_list').DataTable({"order": [[2, 'desc']],  "pageLength": 25});
