@@ -1,103 +1,102 @@
 # weekly-notes-planet
-<!-- BLOG-POST-LIST:START -->
-- [Weekly notes 22/2025](https://sathyabh.at/weekly-notes-22-2025/)
-- [Weekly Notes 22/2025](https://vishnugopal.com/2025/06/01/weekly-notes-22-2025/)
-- [Things I Learned: Week of 2025-06-01](https://til.s-anand.net/2025-06-01.html)
-- [Weeknotes - 2025-W22](https://shrayas.com/weeknotes-2025-w22)
-- [Weeknotes: May 24-30, 2025](https://tracydurnell.com/2025/05/30/weeknotes-may-24-30-2025/)
-- [Weekly Notes 22/2025](https://thejeshgn.com/2025/05/30/weekly-notes-22-2025/)
-- [Weekly notes 21/2025](https://sathyabh.at/weekly-notes-21-2025/)
-- [Weekly Notes 21/2025](https://vishnugopal.com/2025/05/25/weekly-notes-21-2025/)
-- [Things I Learned: Week of 2025-05-25](https://til.s-anand.net/2025-05-25.html)
-- [Week 21/2025](https://learningwala.in/blog/week-21-2025/)
-- [Weeknotes - 2025-W21](https://shrayas.com/weeknotes-2025-w21)
-- [Weeknotes: May 17-23, 2025](https://tracydurnell.com/2025/05/23/weeknotes-may-17-23-2025/)
-- [Weekly Notes 21/2025](https://thejeshgn.com/2025/05/23/weekly-notes-21-2025/)
-- [Weekly notes 20/2025](https://sathyabh.at/weekly-notes-20-2025/)
-- [Weekly Notes 20/2025](https://vishnugopal.com/2025/05/18/weekly-notes-20-2025/)
-- [Things I Learned: Week of 2025-05-18](https://til.s-anand.net/2025-05-18.html)
-- [Week 20/2025](https://learningwala.in/blog/week-20-2025/)
-- [Weeknotes - 2025-W20](https://shrayas.com/weeknotes-2025-w20)
-- [Weeknotes: May 10-16, 2025](https://tracydurnell.com/2025/05/16/weeknotes-may-10-16-2025/)
-- [Weekly Notes 20/2025](https://thejeshgn.com/2025/05/16/weekly-notes-20-2025/)
-- [Showing the &quot;Done %&quot; on my audible listen history page](https://shrayas.com/showing-the-done-percent-on-my-audible-listen-history-page)
-- [Weekly notes 19/2025](https://sathyabh.at/weekly-notes-19-2025/)
-- [Weekly Notes 19/2025](https://vishnugopal.com/2025/05/11/weekly-notes-19-2025/)
-- [Things I Learned: Week of 2025-05-11](https://til.s-anand.net/2025-05-11.html)
-- [Week 19/2025](https://learningwala.in/blog/week-19-2025/)
-- [Weeknotes - 2025-W19](https://shrayas.com/weeknotes-2025-w19)
-- [Weeknotes: May 3-9, 2025](https://tracydurnell.com/2025/05/09/weeknotes-may-3-9-2025/)
-- [Weekly Notes 19/2025](https://thejeshgn.com/2025/05/09/weekly-notes-19-2025/)
-- [Weekly Notes 18/2025](https://vishnugopal.com/2025/05/04/weekly-notes-18-2025/)
-- [Weekly notes 18/2025](https://sathyabh.at/weekly-notes-18-2025/)
-- [Things I Learned: Week of 2025-05-04](https://til.s-anand.net/2025-05-04.html)
-- [Week 18/2025](https://learningwala.in/blog/week-18-2025/)
-- [Weeknotes - 2025-W18](https://shrayas.com/weeknotes-2025-w18)
-- [Weeknotes: April 26 – May 2, 2025](https://tracydurnell.com/2025/05/02/weeknotes-april-26-may-2-2025/)
-- [Weekly Notes 18/2025](https://thejeshgn.com/2025/05/03/weekly-notes-18-2025/)
-- [Weekly notes 17/2025](https://sathyabh.at/weekly-notes-17-2025/)
-- [Things I Learned: Week of 2025-04-27](https://til.s-anand.net/2025-04-27.html)
-- [Week 17/2025](https://learningwala.in/blog/week-17-2025/)
-- [Weekly Notes 17/2025](https://vishnugopal.com/2025/04/27/weekly-notes-17-2025/)
-- [Weeknotes - 2025-W17](https://shrayas.com/weeknotes-2025-w17)
-- [Weeknotes: April 19-25, 2025](https://tracydurnell.com/2025/04/25/weeknotes-april-19-25-2025/)
-- [Weekly Notes 17/2025](https://thejeshgn.com/2025/04/25/weekly-notes-17-2025/)
-- [Weeknotes - 2025-W16](https://shrayas.com/weeknotes-2025-w16)
-- [What is Information Asymmetry?](https://shrayas.com/what-is-information-asymmetry)
-- [Weekly Notes 16/2025](https://vishnugopal.com/2025/04/20/weekly-notes-16-2025/)
-- [Things I Learned: Week of 2025-04-20](https://til.s-anand.net/2025-04-20.html)
-- [Week 16/2025](https://learningwala.in/blog/week-16-2025/)
-- [Weeknotes: April 12-18, 2025](https://tracydurnell.com/2025/04/18/weeknotes-april-12-18-2025/)
-- [Weekly Notes 16/2025](https://thejeshgn.com/2025/04/18/weekly-notes-16-2025/)
-- [Weekly notes 16/2025](https://sathyabh.at/weekly-notes-16-2025/)
-- [Week 15/2025](https://learningwala.in/blog/week-15-2025/)
-- [Weekly notes 15/2025](https://sathyabh.at/weekly-notes-15-2025/)
-- [Weekly Notes 15/2025](https://vishnugopal.com/2025/04/13/weekly-notes-15-2025/)
-- [Things I Learned: Week of 2025-04-13](https://til.s-anand.net/2025-04-13.html)
-- [Weeknotes - 2025-W15](https://shrayas.com/weeknotes-2025-w15)
-- [Weeknotes: April 5-11, 2025](https://tracydurnell.com/2025/04/11/weeknotes-april-5-11-2025/)
-- [Weekly Notes 15/2025](https://thejeshgn.com/2025/04/11/weekly-notes-15-2025/)
-- [Weekly notes 14/2025](https://sathyabh.at/weekly-notes-14-2025/)
-- [Weekly Notes 14/2025](https://vishnugopal.com/2025/04/06/weekly-notes-14-2025/)
-- [Things I Learned: Week of 2025-04-06](https://til.s-anand.net/2025-04-06.html)
-- [Week 14/2025](https://learningwala.in/blog/week-14-2025/)
-- [Weeknotes - 2025-W14](https://shrayas.com/weeknotes-2025-w14)
-- [Weeknotes: Mar. 29 – Apr. 4, 2025](https://tracydurnell.com/2025/04/04/weeknotes-mar-29-apr-4-2025/)
-- [Why is public policy important?](https://shrayas.com/why-is-public-policy-important)
-- [Weekly notes 13/2025](https://sathyabh.at/weekly-notes-13-2025/)
-- [Weekly Notes 13/2025](https://vishnugopal.com/2025/03/30/weekly-notes-13-2025/)
-- [Things I Learned: Week of 2025-03-30](https://til.s-anand.net/2025-03-30.html)
-- [Week 13/2025](https://learningwala.in/blog/week-13-2025/)
-- [Weeknotes - 2025-W13](https://shrayas.com/weeknotes-2025-w13)
-- [Weeknotes: March 22-28, 2025](https://tracydurnell.com/2025/03/28/weeknotes-march-22-28-2025/)
-- [Weekly notes 12/2025](https://sathyabh.at/weekly-notes-12-2025/)
-- [Weeknotes - 2025-W12](https://shrayas.com/weeknotes-2025-w12)
-- [Week 12/2025](https://learningwala.in/blog/week-12-2025/)
-- [Weekly notes 11/2025](https://sathyabh.at/weekly-notes-11-2025/)
-- [Weeknotes - 2025-W11](https://shrayas.com/weeknotes-2025-w11)
-- [Week 11/2025](https://learningwala.in/blog/week-11-2025/)
-- [Weeknotes - 2025-W10](https://shrayas.com/weeknotes-2025-w10)
-- [Weekly notes 10/2025](https://sathyabh.at/weekly-notes-10-2025/)
-- [Week 10/2025](https://learningwala.in/blog/week-10-2025/)
-- [Weekly notes 09/2025](https://sathyabh.at/weekly-notes-09-2025/)
-- [Weeknotes - 2025-W09](https://shrayas.com/weeknotes-2025-w09)
-- [Week 9/2025](https://learningwala.in/blog/week-9-2025/)
-- [A challenge of blog questions](https://shrayas.com/a-challenge-of-blog-questions)
-- [Weekly notes 08/2025](https://sathyabh.at/weekly-notes-08-2025/)
-- [Weeknotes - 2025-W08](https://shrayas.com/weeknotes-2025-w08)
-- [Week 8/2025](https://learningwala.in/blog/week-8-2025/)
-- [Weekly notes 07/2025](https://sathyabh.at/weekly-notes-07-2025/)
-- [Weeknotes - 2025-W07](https://shrayas.com/weeknotes-2025-w07)
-- [Week 7/2025](https://learningwala.in/blog/week-7-2025/)
-- [Week 6/2025](https://learningwala.in/blog/week-6-2025/)
-- [Weeknotes - 2025-W06](https://shrayas.com/weeknotes-2025-w06)
-- [Weekly notes 06/2025](https://sathyabh.at/weekly-notes-06-2025/)
-- [Weeknotes - 2025-W05](https://shrayas.com/weeknotes-2025-w05)
-- [Weekly notes 05/2025](https://sathyabh.at/weekly-notes-05-2025/)
-- [Week 5/2025](https://learningwala.in/blog/week-5-2025/)
-- [Weeknotes - 2025-W04](https://shrayas.com/weeknotes-2025-w04)
-- [Weekly notes 04/2025](https://sathyabh.at/weekly-notes-04-2025/)
-- [Week 4/2025](https://learningwala.in/blog/week-4-2025/)
-- [Weekly notes 03/2025](https://sathyabh.at/weekly-notes-03-2025/)
-- [Weeknotes - 2025-W03](https://shrayas.com/weeknotes-2025-w03)
+<!-- BLOG-POST-LIST:START -->- [Weekly notes 22/2025](https://sathyabh.at/weekly-notes-22-2025/) | Sathya Bhat 
+- [Weekly Notes 22/2025](https://vishnugopal.com/2025/06/01/weekly-notes-22-2025/) | Vishnu Gopal 
+- [Things I Learned: Week of 2025-06-01](https://til.s-anand.net/2025-06-01.html) | S Anand 
+- [Weeknotes - 2025-W22](https://shrayas.com/weeknotes-2025-w22) | Shrayas 
+- [Weeknotes: May 24-30, 2025](https://tracydurnell.com/2025/05/30/weeknotes-may-24-30-2025/) | Tracy Durnell 
+- [Weekly Notes 22/2025](https://thejeshgn.com/2025/05/30/weekly-notes-22-2025/) | Thejesh GN 
+- [Weekly notes 21/2025](https://sathyabh.at/weekly-notes-21-2025/) | Sathya Bhat 
+- [Weekly Notes 21/2025](https://vishnugopal.com/2025/05/25/weekly-notes-21-2025/) | Vishnu Gopal 
+- [Things I Learned: Week of 2025-05-25](https://til.s-anand.net/2025-05-25.html) | S Anand 
+- [Week 21/2025](https://learningwala.in/blog/week-21-2025/) | Mihir 
+- [Weeknotes - 2025-W21](https://shrayas.com/weeknotes-2025-w21) | Shrayas 
+- [Weeknotes: May 17-23, 2025](https://tracydurnell.com/2025/05/23/weeknotes-may-17-23-2025/) | Tracy Durnell 
+- [Weekly Notes 21/2025](https://thejeshgn.com/2025/05/23/weekly-notes-21-2025/) | Thejesh GN 
+- [Weekly notes 20/2025](https://sathyabh.at/weekly-notes-20-2025/) | Sathya Bhat 
+- [Weekly Notes 20/2025](https://vishnugopal.com/2025/05/18/weekly-notes-20-2025/) | Vishnu Gopal 
+- [Things I Learned: Week of 2025-05-18](https://til.s-anand.net/2025-05-18.html) | S Anand 
+- [Week 20/2025](https://learningwala.in/blog/week-20-2025/) | Mihir 
+- [Weeknotes - 2025-W20](https://shrayas.com/weeknotes-2025-w20) | Shrayas 
+- [Weeknotes: May 10-16, 2025](https://tracydurnell.com/2025/05/16/weeknotes-may-10-16-2025/) | Tracy Durnell 
+- [Weekly Notes 20/2025](https://thejeshgn.com/2025/05/16/weekly-notes-20-2025/) | Thejesh GN 
+- [Showing the &quot;Done %&quot; on my audible listen history page](https://shrayas.com/showing-the-done-percent-on-my-audible-listen-history-page) | Shrayas 
+- [Weekly notes 19/2025](https://sathyabh.at/weekly-notes-19-2025/) | Sathya Bhat 
+- [Weekly Notes 19/2025](https://vishnugopal.com/2025/05/11/weekly-notes-19-2025/) | Vishnu Gopal 
+- [Things I Learned: Week of 2025-05-11](https://til.s-anand.net/2025-05-11.html) | S Anand 
+- [Week 19/2025](https://learningwala.in/blog/week-19-2025/) | Mihir 
+- [Weeknotes - 2025-W19](https://shrayas.com/weeknotes-2025-w19) | Shrayas 
+- [Weeknotes: May 3-9, 2025](https://tracydurnell.com/2025/05/09/weeknotes-may-3-9-2025/) | Tracy Durnell 
+- [Weekly Notes 19/2025](https://thejeshgn.com/2025/05/09/weekly-notes-19-2025/) | Thejesh GN 
+- [Weekly Notes 18/2025](https://vishnugopal.com/2025/05/04/weekly-notes-18-2025/) | Vishnu Gopal 
+- [Weekly notes 18/2025](https://sathyabh.at/weekly-notes-18-2025/) | Sathya Bhat 
+- [Things I Learned: Week of 2025-05-04](https://til.s-anand.net/2025-05-04.html) | S Anand 
+- [Week 18/2025](https://learningwala.in/blog/week-18-2025/) | Mihir 
+- [Weeknotes - 2025-W18](https://shrayas.com/weeknotes-2025-w18) | Shrayas 
+- [Weeknotes: April 26 – May 2, 2025](https://tracydurnell.com/2025/05/02/weeknotes-april-26-may-2-2025/) | Tracy Durnell 
+- [Weekly Notes 18/2025](https://thejeshgn.com/2025/05/03/weekly-notes-18-2025/) | Thejesh GN 
+- [Weekly notes 17/2025](https://sathyabh.at/weekly-notes-17-2025/) | Sathya Bhat 
+- [Things I Learned: Week of 2025-04-27](https://til.s-anand.net/2025-04-27.html) | S Anand 
+- [Week 17/2025](https://learningwala.in/blog/week-17-2025/) | Mihir 
+- [Weekly Notes 17/2025](https://vishnugopal.com/2025/04/27/weekly-notes-17-2025/) | Vishnu Gopal 
+- [Weeknotes - 2025-W17](https://shrayas.com/weeknotes-2025-w17) | Shrayas 
+- [Weeknotes: April 19-25, 2025](https://tracydurnell.com/2025/04/25/weeknotes-april-19-25-2025/) | Tracy Durnell 
+- [Weekly Notes 17/2025](https://thejeshgn.com/2025/04/25/weekly-notes-17-2025/) | Thejesh GN 
+- [Weeknotes - 2025-W16](https://shrayas.com/weeknotes-2025-w16) | Shrayas 
+- [What is Information Asymmetry?](https://shrayas.com/what-is-information-asymmetry) | Shrayas 
+- [Weekly Notes 16/2025](https://vishnugopal.com/2025/04/20/weekly-notes-16-2025/) | Vishnu Gopal 
+- [Things I Learned: Week of 2025-04-20](https://til.s-anand.net/2025-04-20.html) | S Anand 
+- [Week 16/2025](https://learningwala.in/blog/week-16-2025/) | Mihir 
+- [Weeknotes: April 12-18, 2025](https://tracydurnell.com/2025/04/18/weeknotes-april-12-18-2025/) | Tracy Durnell 
+- [Weekly Notes 16/2025](https://thejeshgn.com/2025/04/18/weekly-notes-16-2025/) | Thejesh GN 
+- [Weekly notes 16/2025](https://sathyabh.at/weekly-notes-16-2025/) | Sathya Bhat 
+- [Week 15/2025](https://learningwala.in/blog/week-15-2025/) | Mihir 
+- [Weekly notes 15/2025](https://sathyabh.at/weekly-notes-15-2025/) | Sathya Bhat 
+- [Weekly Notes 15/2025](https://vishnugopal.com/2025/04/13/weekly-notes-15-2025/) | Vishnu Gopal 
+- [Things I Learned: Week of 2025-04-13](https://til.s-anand.net/2025-04-13.html) | S Anand 
+- [Weeknotes - 2025-W15](https://shrayas.com/weeknotes-2025-w15) | Shrayas 
+- [Weeknotes: April 5-11, 2025](https://tracydurnell.com/2025/04/11/weeknotes-april-5-11-2025/) | Tracy Durnell 
+- [Weekly Notes 15/2025](https://thejeshgn.com/2025/04/11/weekly-notes-15-2025/) | Thejesh GN 
+- [Weekly notes 14/2025](https://sathyabh.at/weekly-notes-14-2025/) | Sathya Bhat 
+- [Weekly Notes 14/2025](https://vishnugopal.com/2025/04/06/weekly-notes-14-2025/) | Vishnu Gopal 
+- [Things I Learned: Week of 2025-04-06](https://til.s-anand.net/2025-04-06.html) | S Anand 
+- [Week 14/2025](https://learningwala.in/blog/week-14-2025/) | Mihir 
+- [Weeknotes - 2025-W14](https://shrayas.com/weeknotes-2025-w14) | Shrayas 
+- [Weeknotes: Mar. 29 – Apr. 4, 2025](https://tracydurnell.com/2025/04/04/weeknotes-mar-29-apr-4-2025/) | Tracy Durnell 
+- [Why is public policy important?](https://shrayas.com/why-is-public-policy-important) | Shrayas 
+- [Weekly notes 13/2025](https://sathyabh.at/weekly-notes-13-2025/) | Sathya Bhat 
+- [Weekly Notes 13/2025](https://vishnugopal.com/2025/03/30/weekly-notes-13-2025/) | Vishnu Gopal 
+- [Things I Learned: Week of 2025-03-30](https://til.s-anand.net/2025-03-30.html) | S Anand 
+- [Week 13/2025](https://learningwala.in/blog/week-13-2025/) | Mihir 
+- [Weeknotes - 2025-W13](https://shrayas.com/weeknotes-2025-w13) | Shrayas 
+- [Weeknotes: March 22-28, 2025](https://tracydurnell.com/2025/03/28/weeknotes-march-22-28-2025/) | Tracy Durnell 
+- [Weekly notes 12/2025](https://sathyabh.at/weekly-notes-12-2025/) | Sathya Bhat 
+- [Weeknotes - 2025-W12](https://shrayas.com/weeknotes-2025-w12) | Shrayas 
+- [Week 12/2025](https://learningwala.in/blog/week-12-2025/) | Mihir 
+- [Weekly notes 11/2025](https://sathyabh.at/weekly-notes-11-2025/) | Sathya Bhat 
+- [Weeknotes - 2025-W11](https://shrayas.com/weeknotes-2025-w11) | Shrayas 
+- [Week 11/2025](https://learningwala.in/blog/week-11-2025/) | Mihir 
+- [Weeknotes - 2025-W10](https://shrayas.com/weeknotes-2025-w10) | Shrayas 
+- [Weekly notes 10/2025](https://sathyabh.at/weekly-notes-10-2025/) | Sathya Bhat 
+- [Week 10/2025](https://learningwala.in/blog/week-10-2025/) | Mihir 
+- [Weekly notes 09/2025](https://sathyabh.at/weekly-notes-09-2025/) | Sathya Bhat 
+- [Weeknotes - 2025-W09](https://shrayas.com/weeknotes-2025-w09) | Shrayas 
+- [Week 9/2025](https://learningwala.in/blog/week-9-2025/) | Mihir 
+- [A challenge of blog questions](https://shrayas.com/a-challenge-of-blog-questions) | Shrayas 
+- [Weekly notes 08/2025](https://sathyabh.at/weekly-notes-08-2025/) | Sathya Bhat 
+- [Weeknotes - 2025-W08](https://shrayas.com/weeknotes-2025-w08) | Shrayas 
+- [Week 8/2025](https://learningwala.in/blog/week-8-2025/) | Mihir 
+- [Weekly notes 07/2025](https://sathyabh.at/weekly-notes-07-2025/) | Sathya Bhat 
+- [Weeknotes - 2025-W07](https://shrayas.com/weeknotes-2025-w07) | Shrayas 
+- [Week 7/2025](https://learningwala.in/blog/week-7-2025/) | Mihir 
+- [Week 6/2025](https://learningwala.in/blog/week-6-2025/) | Mihir 
+- [Weeknotes - 2025-W06](https://shrayas.com/weeknotes-2025-w06) | Shrayas 
+- [Weekly notes 06/2025](https://sathyabh.at/weekly-notes-06-2025/) | Sathya Bhat 
+- [Weeknotes - 2025-W05](https://shrayas.com/weeknotes-2025-w05) | Shrayas 
+- [Weekly notes 05/2025](https://sathyabh.at/weekly-notes-05-2025/) | Sathya Bhat 
+- [Week 5/2025](https://learningwala.in/blog/week-5-2025/) | Mihir 
+- [Weeknotes - 2025-W04](https://shrayas.com/weeknotes-2025-w04) | Shrayas 
+- [Weekly notes 04/2025](https://sathyabh.at/weekly-notes-04-2025/) | Sathya Bhat 
+- [Week 4/2025](https://learningwala.in/blog/week-4-2025/) | Mihir 
+- [Weekly notes 03/2025](https://sathyabh.at/weekly-notes-03-2025/) | Sathya Bhat 
+- [Weeknotes - 2025-W03](https://shrayas.com/weeknotes-2025-w03) | Shrayas 
 <!-- BLOG-POST-LIST:END -->
