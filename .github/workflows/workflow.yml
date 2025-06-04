@@ -17,4 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://feeds.thejeshgn.com/weekly-notes,https://til.s-anand.net/feed.xml,https://sathyabh.at/series/weekly-notes/index.xml,https://learningwala.in/tags/weekly-notes/index.xml,https://tracydurnell.com/category/weeknotes/feed/,https://shrayas.com/feed.rss,https://vishnugopal.com/tag/weekly-notes/feed/"
+          feed_names: "Thejesh GN,S Anand,Sathya Bhat,Mihir,Tracy Durnell,Shrayas,Vishnu Gopal"
           max_post_count: 100
+          template: "- [$title]($url) | $feedName $newline"
