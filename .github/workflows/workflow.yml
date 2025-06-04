@@ -16,5 +16,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://feeds.thejeshgn.com/weekly-notes,https://til.s-anand.net/feed.xml,https://sathyabh.at/series/weekly-notes/index.xml,https://dsaikrishna.substack.com/feed,https://tracydurnell.com/category/weeknotes/feed/"
+          feed_list: "https://feeds.thejeshgn.com/weekly-notes,https://til.s-anand.net/feed.xml,https://sathyabh.at/series/weekly-notes/index.xml,https://learningwala.in/tags/weekly-notes/index.xml,https://tracydurnell.com/category/weeknotes/feed/,https://shrayas.com/feed.rss,https://vishnugopal.com/tag/weekly-notes/feed/"
           max_post_count: 100
