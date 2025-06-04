@@ -1,5 +1,6 @@
 # weekly-notes-planet
-<!-- BLOG-POST-LIST:START -->- [Weekly notes 22/2025](https://sathyabh.at/weekly-notes-22-2025/) | Sathya Bhat 
+<!-- BLOG-POST-LIST:START -->
+- [Weekly notes 22/2025](https://sathyabh.at/weekly-notes-22-2025/) | Sathya Bhat 
 - [Weekly Notes 22/2025](https://vishnugopal.com/2025/06/01/weekly-notes-22-2025/) | Vishnu Gopal 
 - [Things I Learned: Week of 2025-06-01](https://til.s-anand.net/2025-06-01.html) | S Anand 
 - [Weeknotes - 2025-W22](https://shrayas.com/weeknotes-2025-w22) | Shrayas 
